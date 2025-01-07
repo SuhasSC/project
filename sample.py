@@ -1,1 +1,2 @@
-print("sample for using integrated git inside vscode")
+print("making changes")
+print("green for new linge")
